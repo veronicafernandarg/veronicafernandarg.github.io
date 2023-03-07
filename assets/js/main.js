@@ -289,3 +289,4 @@ document.getElementById('hero').addEventListener('mousemove', (evt) => {
 function random(min, max){
     return Math.floor(Math.random() * (max - min) + min);
 }
+
