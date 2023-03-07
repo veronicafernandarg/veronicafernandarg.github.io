@@ -186,7 +186,7 @@ h6 {
 	position: fixed;
 	right: 15px;
 	top: 15px;
-	z-index: 9998;
+	z-index: 999;
 	border: 0;
 	font-size: 24px;
 	transition: all 0.4s;
@@ -838,7 +838,7 @@ section {
 	left: 0;
 	bottom: 0;
 	width: 300px;
-	z-index: 9999;
+	z-index: 999;
 	background: $footer-color;
 	.copyright {
 		text-align: center;
